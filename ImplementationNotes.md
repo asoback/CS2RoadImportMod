@@ -9,3 +9,18 @@ Will investigate unique type tags
 ## Original Mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1957515502
 https://github.com/grilly86/Open-Cities-Map
+
+## How to mod
+https://cs2.paradoxwikis.com/Modding
+
+## Uploading
+https://cs2.paradoxwikis.com/Map_Creation#Uploading_a_Map_to_Paradox_Mods
+
+
+## Actions
+Launched City Skylines 2, and opened map editor, then went to options -> modding and installed the moddding toolchain.
+
+I went to unity.com and tried to make an account. I'm having to 'verify' with recapta for 20+ times, so I am giving up on that for now. I think I need a key
+
+the code is written in c sharp. I copied a helloworld app off the tutorial into a `helloworld.cs`. I went to VS Code extensions and downloaded C# Dev Kit v1.9.55
+I then opened a terminal and ran `csc helloworld.cs`
