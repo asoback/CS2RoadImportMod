@@ -1,0 +1,10 @@
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\bin\Debug\net472\RealCitiesRoadImport.dll
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\bin\Debug\net472\RealCitiesRoadImport.pdb
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.csproj.AssemblyReference.cache
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.AssemblyInfoInputs.cache
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.AssemblyInfo.cs
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.csproj.CoreCompileInputs.cache
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.sourcelink.json
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.dll
+C:\Users\asoba\Documents\CS2RoadImportMod\source\RealCitiesRoadImport\obj\Debug\net472\RealCitiesRoadImport.pdb

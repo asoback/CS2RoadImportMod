@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{C3B0B989-2464-47DC-A9D3-F4C12460C01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealCitiesRoadImport", "source\RealCitiesRoadImport\RealCitiesRoadImport.csproj", "{D8253AC5-CDB4-4AFD-B6E4-14F119631224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8253AC5-CDB4-4AFD-B6E4-14F119631224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8253AC5-CDB4-4AFD-B6E4-14F119631224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8253AC5-CDB4-4AFD-B6E4-14F119631224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8253AC5-CDB4-4AFD-B6E4-14F119631224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8253AC5-CDB4-4AFD-B6E4-14F119631224} = {C3B0B989-2464-47DC-A9D3-F4C12460C01E}
+	EndGlobalSection
+EndGlobal
