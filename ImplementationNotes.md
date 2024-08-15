@@ -43,8 +43,21 @@ Making the UI mod alongside the code mod. Following along with https://cs2.parad
     ```
 - I did not yet add all the lines that I see in the results screenshot in https://cs2.paradoxwikis.com/Creating_UI_And_Code_Mods#Create_a_UI_Mod_alongside_your_Code_Mod 
     - Specifically the `CopyUIFiles` target after `DeployWIP`
-    
 
+
+I had a problem with building where I needed to reinstall one of the packages from the toolkit. I needed Entities from unity. 
+
+I did ctrl+shift+p in vscode and typed ".NET" without the quotes. I found the build and ran it for the template provided. It seemed to work, created a dll file (library) and put it in "C:\Users\$USER\AppData\LocalLow\Colossal Order\Cities Skylines II\Mods". Starting up CS2 I get nothing though. There are others in "C:\Users\asoba\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Mods\mods_subscribed".
+
+It does say it should load here. https://cs2.paradoxwikis.com/Modding_Toolchain
+
+Next step is going to be to look at the logs
+
+I went to steam, cities skylines 2, then to the options gear, then properities, then launch options. I'm attempting `--developerMode` (This was the wrong thing this is like in game reset things)
+
+I did see my mod listed in "C:\Users\asoba\AppData\LocalLow\Colossal Order\Cities Skylines II\Logs\Modding.log" I also found a log with my mod name and the expected output in the same directory.
+
+So what I want to do next is add in an editor file loader, like is in the overlay mod
 
 ## Design
 
